@@ -1,2 +1,2 @@
-# BtcSeriesSignNode
-Bitcoin Series Sign Node Service
+# CoinSeriesSignNode
+Coin Series Sign Node Service
